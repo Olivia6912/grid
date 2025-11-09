@@ -1,0 +1,8 @@
+.navbar{
+background-color: aquamarine;
+color: rgb(86, 54, 214);
+--bs-navbar-hover-color:#009b7f;
+       --bs-navbar-active-color:#460144;
+       background-color:var(--bs-navbar-bg);
+
+}
